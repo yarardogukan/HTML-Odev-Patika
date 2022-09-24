@@ -1,4 +1,4 @@
-# HTML-Odev1
+# HTML-Odev
 
 Patika DEV sayesinde tasarladığım HTML ödevim.
 
